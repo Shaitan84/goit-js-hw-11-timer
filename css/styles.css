@@ -1,0 +1,23 @@
+.timer-title {
+  font-size: 46px;
+  text-align: center;
+  color: #ff0000;
+}
+.field {
+  display: inline-block;
+  padding: 20px;
+  background-color: lightgray;
+  border-radius: 10px;
+  font-size: 25px;
+  border: 2px solid #000;
+}
+
+.timer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  margin-bottom: 25px;
+}
+.separator {
+  font-size: 56px;
+}
